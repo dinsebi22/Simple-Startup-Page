@@ -1,0 +1,56 @@
+
+body{
+	background:url(christopher-ayme-157131.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Ribeye Marrow', cursive;
+	color:white;
+
+}
+
+html{
+	height: 100%;
+	
+	/*The html/body element will take up the whole window */
+}
+
+
+#content{
+	text-align: center;
+	font-family: 'Finger Paint', cursive;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px	rgba(0,0,0,0.1);
+}
+
+
+#description{
+	text-align: center;
+	padding-top: 31%;
+	font-family: 'Finger Paint', cursive;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px	rgba(0,0,0,0.1);
+}
+
+#button{
+	text-align: center;
+	padding-top: 1%;
+}
+
+h1{
+	font-size: 7em;
+}
+
+hr{
+	border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+
+	text-align: center;
+	width: 600px;
+	margin-bottom:10px; 
+	margin-top:10px;
+}
+
+
