@@ -1,2 +1,4 @@
 1. Simple Startup page : Best Doggo's
 	Shout-out to Christopher Ayme - for the great Photo 
+	
+2.A small photo galery.
